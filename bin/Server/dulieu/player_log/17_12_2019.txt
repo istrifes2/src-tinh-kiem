@@ -1,0 +1,6 @@
+18:48:59	 Tµi kho¶n: 1	 Nh©n vËt: ThuyYen	 UUID: 3898383656	 CÊp: 	1	 M«n ph¸i: 	 IP: 192.168.1.3 : 61295	 Xu: 1105	 Tæng tiÒn v¹n: 	0
+19:10:48	 Tµi kho¶n: 1	 Nh©n vËt: ThuyYen	 UUID: 3898383656	 CÊp: 	150	 M«n ph¸i: 	 IP: 192.168.1.3 : 59777	 Xu: 605	 Tæng tiÒn v¹n: 	10000000
+19:19:07	 Tµi kho¶n: 1	 Nh©n vËt: ThuyYen	 UUID: 3898383656	 CÊp: 	120	 M«n ph¸i: cuiyan	 IP: 192.168.1.3 : 59794	 Xu: 605	 Tæng tiÒn v¹n: 	10000000
+20:54:29	 Tµi kho¶n: 1	 Nh©n vËt: ThuyYen	 UUID: 3898383656	 CÊp: 	120	 M«n ph¸i: cuiyan	 IP: 192.168.1.3 : 51717	 Xu: 605	 Tæng tiÒn v¹n: 	8757300
+20:58:50	 Tµi kho¶n: 1	 Nh©n vËt: Ngamine	 UUID: 2636946349	 CÊp: 	1	 M«n ph¸i: 	 IP: 192.168.1.3 : 51801	 Xu: 605	 Tæng tiÒn v¹n: 	0
+21:03:22	 Tµi kho¶n: 1	 Nh©n vËt: Ngamine	 UUID: 2636946349	 CÊp: 	150	 M«n ph¸i: emei	 IP: 192.168.1.3 : 60094	 Xu: 605	 Tæng tiÒn v¹n: 	10000000

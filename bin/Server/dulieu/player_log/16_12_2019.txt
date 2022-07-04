@@ -1,0 +1,9 @@
+21:57:12	 Tµi kho¶n: 1	 Nh©n vËt: ThieuLam	 UUID: 2700464078	 CÊp: 	1	 M«n ph¸i: 	 IP: 192.168.1.3 : 60975	 Xu: 1105	 Tæng tiÒn v¹n: 	0
+21:58:37	 Tµi kho¶n: 1	 Nh©n vËt: ThieuLam	 UUID: 2700464078	 CÊp: 	120	 M«n ph¸i: 	 IP: 192.168.1.3 : 60999	 Xu: 1105	 Tæng tiÒn v¹n: 	10000000
+22:00:43	 Tµi kho¶n: 2	 Nh©n vËt: DuongZZZZ	 UUID: 2979003719	 CÊp: 	1	 M«n ph¸i: 	 IP: 192.168.1.3 : 61029	 Xu: 0	 Tæng tiÒn v¹n: 	0
+22:10:31	 Tµi kho¶n: 1	 Nh©n vËt: ThieuLam	 UUID: 2700464078	 CÊp: 	120	 M«n ph¸i: shaolin	 IP: 192.168.1.3 : 61208	 Xu: 1105	 Tæng tiÒn v¹n: 	10000000
+22:10:42	 Tµi kho¶n: 2	 Nh©n vËt: DuongZZZZ	 UUID: 2979003719	 CÊp: 	120	 M«n ph¸i: tangmen	 IP: 192.168.1.3 : 61212	 Xu: 0	 Tæng tiÒn v¹n: 	10000000
+22:17:34	 Tµi kho¶n: 1	 Nh©n vËt: ThieuLam	 UUID: 2700464078	 CÊp: 	120	 M«n ph¸i: shaolin	 IP: 192.168.1.3 : 61309	 Xu: 1105	 Tæng tiÒn v¹n: 	10000000
+22:17:39	 Tµi kho¶n: 2	 Nh©n vËt: DuongZZZZ	 UUID: 2979003719	 CÊp: 	120	 M«n ph¸i: tangmen	 IP: 192.168.1.3 : 61314	 Xu: 0	 Tæng tiÒn v¹n: 	10000000
+22:20:34	 Tµi kho¶n: 1	 Nh©n vËt: ThieuLam	 UUID: 2700464078	 CÊp: 	120	 M«n ph¸i: shaolin	 IP: 192.168.1.3 : 61354	 Xu: 1105	 Tæng tiÒn v¹n: 	10000000
+22:20:39	 Tµi kho¶n: 2	 Nh©n vËt: DuongZZZZ	 UUID: 2979003719	 CÊp: 	120	 M«n ph¸i: tangmen	 IP: 192.168.1.3 : 61356	 Xu: 0	 Tæng tiÒn v¹n: 	10000000

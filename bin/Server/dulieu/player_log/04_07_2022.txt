@@ -1,0 +1,2 @@
+08:59:26	 Tµi kho¶n: 1	 Nh©n vËt: PhucTranVL	 UUID: 1867166797	 CÊp: 	150	 M«n ph¸i: tianwang	 IP: 192.168.1.2 : 61580	 Xu: 605	 Tæng tiÒn v¹n: 	10000000
+09:00:19	 Tµi kho¶n: 1	 Nh©n vËt: PhucTranVL	 UUID: 1867166797	 CÊp: 	150	 M«n ph¸i: tianwang	 IP: 192.168.1.2 : 61591	 Xu: 605	 Tæng tiÒn v¹n: 	10000000
